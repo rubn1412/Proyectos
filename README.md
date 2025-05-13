@@ -2,10 +2,11 @@
 Proyectos personales y profesionales.
 
 ## 📂 Proyectos
--Sistema de Gestion de Empleados
+
 - Maquina Snack
 - Generador de Presupestos en PDF
 - Personal Database Management
+- Sistema de Gestion de Empleados
 ## 💻 Habilidades
 - Python 
 
