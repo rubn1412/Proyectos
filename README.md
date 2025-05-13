@@ -2,8 +2,10 @@
 Proyectos personales y profesionales.
 
 ## 📂 Proyectos
-- Mostrar y agregar inventario
-
+-Sistema de Gestion de Empleados
+- Maquina Snack
+- Generador de Presupestos en PDF
+- Personal Database Management
 ## 💻 Habilidades
 - Python 
 
