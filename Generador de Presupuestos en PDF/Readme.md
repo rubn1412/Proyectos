@@ -45,17 +45,6 @@ Precio por hora
 
 Generará un archivo Presupuesto.pdf con los datos ingresados.
 
-🎚 Personalización
-Para ajustar las posiciones del texto:
-
-python
-pdf.text(x, y, texto)  # Ajusta x, y según tu plantilla
-📄 Estructura del Proyecto
-generador-presupuestos/
-├── presupuesto.py      # Script principal
-├── Template.png        # Plantilla del presupuesto
-├── Presupuesto.pdf     # Ejemplo de salida
-└── README.md           # Este archivo
 🤝 Contribución
 Las contribuciones son bienvenidas. Por favor abre un Issue o Pull Request.
 
